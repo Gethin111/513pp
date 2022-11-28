@@ -168,7 +168,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 					<div class="row">
 						<div class="col-md-3">
 							<div class="fh5co-navbar-brand">
-								<img src='images/Logo.png' class='writer-img'>
+								<img src='images/logo.png' class='writer-img'>
 							</div>
 						</div>
 						<div class="col-md-9 main-nav">
